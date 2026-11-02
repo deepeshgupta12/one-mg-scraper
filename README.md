@@ -207,7 +207,7 @@ black .
 
 ## License
 
-Add a license if you plan to publish or distribute. Until then, treat this repo as internal tooling.
+MIT © 2026 Deepesh Kumar Gupta. See [LICENSE](LICENSE) for details.
 
 ---
 
